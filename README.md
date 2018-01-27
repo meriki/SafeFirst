@@ -11,4 +11,4 @@ GSM Module,
 Push Button,
 Power Supply,
 
-The code has been tested and run successfully. Please refer to the Final report for more details.
+The code has been tested and run successfully. Please refer to the [Final report](https://github.com/meriki/SafeFirst/blob/master/COFinalReport.pdf) for more details.
